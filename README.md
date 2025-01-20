@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/tanvu.svg.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/tanvu.svg" width="1200" alt="tanvu49002" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
